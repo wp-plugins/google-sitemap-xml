@@ -1,4 +1,4 @@
-=== Google XML Sitemaps ===
+=== Google Sitemaps XML ===
 Contributors: mikeirvine
 Donate link: http://www.amplemoney.com
 Tags: seo, google, sitemaps, google sitemaps, yahoo, msn, ask, live, xml sitemap, xml
