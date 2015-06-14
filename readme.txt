@@ -14,9 +14,10 @@ This plugin will generate a special XML sitemap which will help search engines t
 
 This plugin will generate a special XML sitemap which will help search engines like Google, Bing, Yahoo and Ask.com to better index your blog. With such a sitemap, it's much easier for the crawlers to see the complete structure of your site and retrieve it more efficiently. The plugin supports all kinds of WordPress generated pages as well as custom URLs. Additionally it notifies all major search engines every time you create a post about the new content.
 
-Supported since *over 9 years* and rated as the [best WordPress plugin](http://wordpress.org/plugins/browse/top-rated/), it will do exactly what it's supposed to do - providing a complete XML sitemap for search engines. It will not break your site, slow it down or annoy you. Guaranteed!
+It will do exactly what it's supposed to do - providing a complete XML sitemap for search engines. It will not break your site, slow it down or annoy you. Guaranteed!
 
-> If you like the plugin, feel free to rate it (on the right side of this page) or [donate via PayPal](http://www.amplemoney.com/). I'm gladly supporting this plugin since over 9 years! Thanks a lot! :)
+> If you like the plugin, feel free to rate it (on the right side of this page) or [donate via PayPal](http://www.amplemoney.com/). 
+Thanks a lot! :)
 
 == Installation ==
 
