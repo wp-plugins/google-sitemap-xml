@@ -16,7 +16,7 @@ This plugin will generate a special XML sitemap which will help search engines l
 
 It will do exactly what it's supposed to do - providing a complete XML sitemap for search engines. It will not break your site, slow it down or annoy you. Guaranteed!
 
-> If you like the plugin, feel free to rate it (on the right side of this page) or [donate via PayPal](http://www.amplemoney.com/). 
+> If you like the plugin, feel free to rate it (on the right side of this page) or [donate via PayPal by getting your content gift](http://www.amplemoney.com/seo-content). 
 Thanks a lot! :)
 
 == Installation ==
