@@ -1,6 +1,6 @@
 === Google Sitemaps XML ===
 Contributors: mikeirvine
-Donate link: http://www.amplemoney.com
+Donate link: http://www.amplemoney.com/sitemap-donorlist/
 Tags: seo, google, sitemaps, google sitemaps, yahoo, msn, ask, live, xml sitemap, xml
 Requires at least: 3.3
 Tested up to: 4.2
@@ -28,7 +28,7 @@ Thanks a lot! :)
 
 == License ==
 
-Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, you can thank me and leave a [small donation](http://www.amplemoney.com/") for the time I've spent writing and supporting this plugin. And I really don't want to know how many hours of my life this plugin has already eaten ;)
+Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal or commercial blog. But if you enjoy this plugin, you can thank me and leave a [small donation](http://www.amplemoney.com/seo-content/") for the time I've spent writing and supporting this plugin.
 
 == Translations ==
 
