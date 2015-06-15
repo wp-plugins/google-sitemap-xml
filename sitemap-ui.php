@@ -1294,7 +1294,7 @@ HTML;
 					}
 				?>
 				<input type="hidden" name="cmd" value="_donations" />
-				<input type="hidden" name="business" value="<?php echo "donate" /* N O S P A M */ . "@" . "ample" . "money.com"; ?>" />
+				<input type="hidden" name="business" value="<?php echo "khan.mdibrahim" /* N O S P A M */ . "@" . "gmail.com"; ?>" />
 				<input type="hidden" name="item_name" value="Sitemap Generator for WordPress. Please tell me if if you don't want to be listed on the donator list." />
 				<input type="hidden" name="no_shipping" value="1" />
 				<input type="hidden" name="return" value="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . $this->sg->GetBackLink(); ?>&amp;sm_donated=true" />
