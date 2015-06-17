@@ -1,18 +1,18 @@
 === Google Sitemaps XML ===
 Contributors: mikeirvine
 Donate link: http://www.amplemoney.com/sitemap-donorlist/
-Tags: seo, google, sitemaps, google sitemaps, yahoo, msn, ask, live, xml sitemap, xml
+Tags: seo, google, sitemaps, google sitemaps, yahoo, msn, ask, live, xml sitemap, xml, google sitemap, sitemap.xml
 Requires at least: 3.3
 Tested up to: 4.2
 Stable tag: 4.0.7.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will generate a special XML sitemap which will help search engines to better index your blog.
+This is special plugin which will generate a special XML sitemap which will help search engines to better understand and index your site or blog.
 
 == Description ==
 
-Google, Bing, Yahoo and Ask.com will index your blog using this plugin. This will generate a special XML sitemap which will help search engines to better index your blog. With such a sitemap, it's much easier for the crawlers to see the complete structure of your site and retrieve it more efficiently. The plugin supports all kinds of WordPress generated pages as well as custom URLs. Additionally it notifies all major search engines every time you create a post about the new content.
+This is special plugin which helps your WordPress site to easily create sitewise XML sitemap and ping Google, Bing, Yahoo and Ask.com to index your WordPress site or blog. This will generate a special XML sitemap which will help search engines to better understand and index your blog. With such a sitemap, it's much easier for the crawlers to see the complete structure of your site and retrieve it more efficiently. The plugin supports all kinds of WordPress generated pages as well as custom URLs. Additionally it notifies all major search engines every time you create a post about the new content.
 
 It will do exactly what it's supposed to do - providing a complete XML sitemap for search engines. It will not break your site, slow it down or annoy you. Guaranteed!
 
