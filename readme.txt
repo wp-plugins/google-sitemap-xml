@@ -8,11 +8,25 @@ Stable tag: 4.0.7.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is special plugin which will generate a special XML sitemap to help Google, Yahoo, Ask and other search engines to better understand and index your site or blog.
+This is special plugin which will generate a special XML sitemap to help Google, Yahoo, Ask and other search engines to ndex your site or blog.
 
 == Description ==
 
-This is special plugin which helps your WordPress site to easily create sitewise XML sitemap and ping Google, Bing, Yahoo and Ask.com to index your WordPress site or blog. This plugin generates a special XML sitemap to  help search engines like Google, Yahoo, MSN to better understand and index your blog. With such a sitemap, it's much easier for the crawlers to see the complete structure of your site and retrieve it more efficiently. The plugin supports all kinds of WordPress generated pages as well as custom URLs. Additionally it notifies all major search engines every time you create a post about the new content.
+This is special plugin which helps your WordPress site to easily create sitewise XML sitemap and ping Google, Bing, Yahoo and Ask.com to index your WordPress site or blog. This plugin generates XML sitemap following sitemap.org Sitemap protocol to  help search engines like Google, Yahoo, MSN to better understand and index your blog. The Sitemap protocol enables you to provide details about your pages to search engines, and we encourage its use. 
+
+The XML sitemap created using this plugin satisfies completely with Sitemap.org protocol which says
+
+The Sitemap must:
+
+*Begin with an opening <urlset> tag and end with a closing </urlset> tag.
+*Specify the namespace (protocol standard) within the <urlset> tag.
+*Include a <url> entry for each URL, as a parent XML tag.
+*Include a <loc> child entry for each <url> parent tag.
+All other tags are optional. Support for these optional tags may vary among search engines. Refer to each search engine's documentation for details.
+Also, all URLs in a Sitemap must be from a single host, such as www.example.com or store.example.com.
+
+
+With such a sitemap, it's much easier for the crawlers to see the complete structure of your site and retrieve it more efficiently. The plugin supports all kinds of WordPress generated pages as well as custom URLs. Additionally it notifies all major search engines every time you create a post about the new content.
 
 It will do exactly what it's supposed to do - providing a complete XML sitemap for Google, Yahoo, MSN, ASK and other search engines. It will not break your site, slow it down or annoy you. Guaranteed!
 
