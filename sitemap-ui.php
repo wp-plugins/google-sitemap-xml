@@ -1,7 +1,7 @@
 <?php
 /*
 
- $Id: sitemap-ui.php 935247 2015-01-19 $
+ $Id: sitemap-ui.php 
 
 */
 
@@ -1277,7 +1277,7 @@ HTML;
 							
 			</form>
 			
-			<a data-pin-do="embedBoard" href="http://www.pinterest.com/onelivebird/branded-tees-for-you/" data-pin-scale-width="60" data-pin-scale-height="550" data-pin-board-width="750">Follow iGreen Tees's board Branded Tees for you!!! on Pinterest.</a>
+			<a data-pin-do="embedBoard" href="http://www.pinterest.com/onelivebird/branded-tees-for-you/" data-pin-scale-width="120" data-pin-scale-height="350" data-pin-board-width="850">Follow iGreen Tees's board Branded Tees for you!!! on Pinterest.</a>
 <!-- Please call pinit.js only once per page -->
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 			
