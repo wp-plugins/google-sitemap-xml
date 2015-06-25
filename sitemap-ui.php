@@ -1273,9 +1273,11 @@ HTML;
 				<input type="hidden" name="rm" value="2" />
 				<input type="hidden" name="on0" value="Your Website" />
 				<input type="hidden" name="os0" value="<?php echo get_bloginfo("url"); ?>"/>
+				
+							
 			</form>
 			
-			<a data-pin-do="embedBoard" href="http://www.pinterest.com/onelivebird/branded-tees-for-you/" data-pin-scale-width="60" data-pin-scale-height="550" data-pin-board-width="150">Follow iGreen Tees's board Branded Tees for you!!! on Pinterest.</a>
+			<a data-pin-do="embedBoard" href="http://www.pinterest.com/onelivebird/branded-tees-for-you/" data-pin-scale-width="60" data-pin-scale-height="550" data-pin-board-width="750">Follow iGreen Tees's board Branded Tees for you!!! on Pinterest.</a>
 <!-- Please call pinit.js only once per page -->
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 			
